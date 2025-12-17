@@ -1,0 +1,4 @@
+metric,value,n
+"spearman(usage_rate, lag_median_h)",-0.32774266465824703,9
+"spearman(usage_rate, corr_median)",0.06666666666666667,9
+"spearman(usage_rate, corr_lag_vs_maxlag)",0.04761904761904763,9
